@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/Daffa-07-08.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/c01aaa0c62e6cac0175d5.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">gabut BOT - MD</h1>
 <p align="center">
